@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "week11-homework",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsa5152/week11-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsa5152/week11-homework/issues"
+  },
+  "homepage": "https://github.com/elsa5152/week11-homework#readme"
+}
