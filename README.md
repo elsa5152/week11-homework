@@ -31,9 +31,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 
-## Link of my homework
+## Link of my APP
 
-[Note Taker](https://elsa5152.github.io/week11-homework/)
+[Note Taker](https://note-taker-123456.herokuapp.com/)
 
 <image src="image/1.png" alt="1.png" width="500" height="300">
 <image src="image/2.png" alt="2.png" width="500" height="300">
